@@ -55,3 +55,26 @@ console.log(result);
   Development and support of banking software (Oracle, SQL, PL/SQL)
 - **Trainee Frontend developer, The Rolling Scopes School**  
   CV learning project (Markdown, HTML, CSS) - https://sealjuli.github.io/rsschool-cv/cv
+
+---
+
+### Education:
+
+- Lyceum of BSU
+- Belarusian State University, Faculty of Applied Mathematics and Computer Science
+
+#### Courses:
+
+- Oracle SQL Fundamentals
+- Oracle PL/SQL Fundamentals
+- RS Schools Course «JavaScript/Front-end. Stage 0»
+- RS Schools Course «JavaScript/Front-end.» (in progress)
+- JavaScript Manual on https://learn.javascript.ru/ (in progress)
+
+---
+
+### Languages:
+
+- Russian - Native
+- English - Pre-Intermediate (A2+)
+  I had a speaking practice at the StreamLine Language School. (A2)
